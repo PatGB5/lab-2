@@ -27,3 +27,4 @@ end
 figure(2)
 stem(y);
 hold on;
+hold off;
